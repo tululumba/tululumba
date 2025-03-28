@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm CryptoExplorer
+# Hey there! 👋 I'm CryptoExplorer Tululumba
 
 I'm a curious newbie diving into the world of **blockchain** and **cryptocurrencies**. I love exploring new projects, learning about decentralized tech, and connecting the dots in the crypto ecosystem.
 
@@ -8,7 +8,6 @@ I'm a curious newbie diving into the world of **blockchain** and **cryptocurrenc
 - Researching crypto projects and their teams.
 
 ### 📫 Let's connect:
-- Twitter: [@CryptoExp22](https://twitter.com)
-- Email: crypto.explorer22@gmail.com
+- Twitter: @R1cardonft62989
 
 Looking forward to sharing my journey and learning from the community! 🚀
